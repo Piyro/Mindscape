@@ -16,7 +16,7 @@ RenderSettings:
   serializedVersion: 9
   m_Fog: 1
   m_FogColor: {r: 0.19607845, g: 0.1137255, b: 0.14117648, a: 1}
-  m_FogMode: 1
+  m_FogMode: 2
   m_FogDensity: 0.01
   m_LinearFogStart: -45
   m_LinearFogEnd: 111
@@ -6947,7 +6947,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
