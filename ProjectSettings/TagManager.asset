@@ -7,6 +7,11 @@ TagManager:
   - Ground
   - LockedDoor
   - UnlockedDoor
+  - StoreFallEnding
+  - CarEnding
+  - HouseEnding
+  - MonsterEnding
+  - StoreEnterEnding
   layers:
   - Default
   - TransparentFX
